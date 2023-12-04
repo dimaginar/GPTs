@@ -1,6 +1,6 @@
 ## Dimaginar's GPT Repository
 
-Welcome to my GPT Instructions Repository! Here, you'll find a collection of GPT-generated instructions that cover various domains and topics, showcasing the incredible versatility of GPT models.
+Welcome to my GPT Instructions Repository! Here, you'll find a collection of GPT instructions that cover various domains and topics, showcasing the incredible versatility of GPT models.
 
 Each instruction is accompanied by a short description, a link to the detailed instruction, and a reference to the freely accessible GPT model. Whether you're in search of creative inspiration, educational material, or practical guidance, this repository stands as a valuable resource for leveraging the capabilities of GPT-powered AI.
 

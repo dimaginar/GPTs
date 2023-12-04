@@ -10,6 +10,9 @@ Thank you for visiting, and I hope you find these GPT-generated instructions bot
 
 ## GPT Instructions
 
+🖋️ **Digital Fpresight Artist** - [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/digital-foresight-artist.txt) | [GPT](https://chat.openai.com/g/g-I1BkDg2ZM-digital-foresight-artist)  
+_Specialist in creating visually compelling images of future scenarios and artifacts!_
+
 🖋️ **Logo Designer** - [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/logo-designer.txt) | [GPT](https://chat.openai.com/g/g-I9V0kTqHP-logo-designer)  
 _Artist in creating visually compelling icon or symbol logo's, lettermarks, or a combination of both!_
 

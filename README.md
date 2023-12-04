@@ -8,9 +8,9 @@ The repository is thoughtfully organized for easy navigation. Simply click the p
 
 Thank you for visiting, and I hope you find these GPT-generated instructions both informative and inspiring!
 
-## Instructions
+## GPT Instructions
 
-**Logo Designer** - [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/logo-designer.txt) | [GPT](https://chat.openai.com/g/g-I9V0kTqHP-logo-designer)  
+🖋️ **Logo Designer** - [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/logo-designer.txt) | [GPT](https://chat.openai.com/g/g-I9V0kTqHP-logo-designer)  
 _Artist in creating visually compelling icon or symbol logo's, lettermarks, or a combination of both!_
 
 ## License

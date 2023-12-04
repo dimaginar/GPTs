@@ -15,7 +15,3 @@ _Specialist in creating visually compelling images of future scenarios and artif
 
 🖋️ **Logo Designer** - [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/logo-designer.txt) | [GPT](https://chat.openai.com/g/g-I9V0kTqHP-logo-designer)  
 _Artist in creating visually compelling icon or symbol logo's, lettermarks, or a combination of both!_
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).

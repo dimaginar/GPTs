@@ -56,3 +56,10 @@ footer {
     color: #fff;
     width: 100%; /* Full width footer */
 }
+
+/* Additional styles for the iframe */
+iframe {
+    border: none; /* Remove iframe border */
+    width: 100%; /* Make the iframe responsive */
+    height: 600px; /* Set a fixed height or adjust as needed */
+}

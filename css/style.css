@@ -1,0 +1,30 @@
+/* Reset some basic elements */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+    /* Add styles for header */
+}
+
+/* Navigation bar styles */
+nav {
+    /* Add styles for navigation bar */
+}
+
+/* Main content styles */
+main {
+    /* Add styles for main content */
+}
+
+/* Footer styles */
+footer {
+    /* Add styles for footer */
+}

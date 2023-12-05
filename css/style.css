@@ -1,30 +1,50 @@
-/* Reset some basic elements */
-body, h1, h2, h3, p, ul, li {
+/* Basic Reset */
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-/* Style the body */
 body {
     font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-/* Header styles */
 header {
-    /* Add styles for header */
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
 }
 
-/* Navigation bar styles */
-nav {
-    /* Add styles for navigation bar */
+header nav ul {
+    list-style: none;
 }
 
-/* Main content styles */
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
 main {
-    /* Add styles for main content */
+    padding: 20px;
 }
 
-/* Footer styles */
+main section {
+    margin-bottom: 20px;
+}
+
 footer {
-    /* Add styles for footer */
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
 }

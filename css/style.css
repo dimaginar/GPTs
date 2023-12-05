@@ -8,9 +8,14 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    padding: 20px;
-    background-color: #f4f4f4;
-    color: #333;
+    padding: 0;
+    background-color: #0074e4; /* Change to your desired blue color */
+    color: #fff; /* Change text color to white */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content horizontally */
+    justify-content: center; /* Center content vertically */
+    min-height: 100vh; /* Ensure the page takes up at least the full viewport height */
 }
 
 header {
@@ -18,6 +23,7 @@ header {
     color: #fff;
     padding: 10px 0;
     text-align: center;
+    width: 100%; /* Full width header */
 }
 
 header nav ul {
@@ -36,6 +42,7 @@ header nav ul li a {
 
 main {
     padding: 20px;
+    text-align: center; /* Center the content inside <main> */
 }
 
 main section {
@@ -47,4 +54,5 @@ footer {
     padding: 20px;
     background: #333;
     color: #fff;
+    width: 100%; /* Full width footer */
 }

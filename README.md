@@ -11,7 +11,7 @@ Thank you for visiting, and I hope you find these GPT-generated instructions bot
 ## GPT Instructions
 
 ✏️ **Digital Artist** - _Artist in creating digital images, whether it's a single masterpiece or a cohesive serie!_  
-👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/digital-artist) | [GPT](https://chat.openai.com/g/g-O6ruYrNfi-digital-artist)  
+👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/digital-artist.txt) | [GPT](https://chat.openai.com/g/g-O6ruYrNfi-digital-artist)  
 
 🎨 **Digital Foresight Artist** - _Specialist in creating visually compelling images of future scenarios and artifacts!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/digital-foresight-artist.txt) | [GPT](https://chat.openai.com/g/g-I1BkDg2ZM-digital-foresight-artist)  

@@ -25,37 +25,42 @@ Step 4. Python Visual
 
     Execute Python Code for Creating the Future Wheel:
 
-    # Function to calculate positions for nodes in each ring
-    def get_ring_positions(center, radius, elements):
-        angle_step = 2 * math.pi / len(elements)
-        return {k: (center[0] + math.cos(i * angle_step) * radius, 
-                    center[1] + math.sin(i * angle_step) * radius) 
-                for i, k in enumerate(elements)}
+# Function to calculate positions for nodes in each ring
+def get_ring_positions(center, radius, elements):
+    angle_step = 2 * math.pi / len(elements)
+    return {k: (center[0] + math.cos(i * angle_step) * radius, 
+                center[1] + math.sin(i * angle_step) * radius) 
+            for i, k in enumerate(elements)}
 
-    # Define the central position and the positions for each ring
-    center_pos = (0, 0)
-    first_ring_pos = get_ring_positions(center_pos, 1, first_ring.values())
-    second_ring_pos = get_ring_positions(center_pos, 2, second_ring.values())
-    third_ring_pos = get_ring_positions(center_pos, 3, third_ring.values())
+# Define the central position and the positions for each ring
+center_pos = (0, 0)
+first_ring_pos = get_ring_positions(center_pos, 1, first_ring.values())
+second_ring_pos = get_ring_positions(center_pos, 2, second_ring.values())
+third_ring_pos = get_ring_positions(center_pos, 3, third_ring.values())
 
-    # Create a graph and add nodes (without edges)
-    G = nx.Graph()
-    G.add_node(statement, pos=center_pos)
-    for value in first_ring.values():
-        G.add_node(value, pos=first_ring_pos[value])
-    for i, value in enumerate(second_ring.values()):
-        parent_value = list(first_ring.values())[i]
-        G.add_node(value, pos=second_ring_pos[value])
-    for i, value in enumerate(third_ring.values()):
-        parent_value = list(second_ring.values())[i]
-        G.add_node(value, pos=third_ring_pos[value])
+# Create a graph and add nodes (without edges)
+G = nx.Graph()
+G.add_node(statement, pos=center_pos)
+for value in first_ring.values():
+    G.add_node(value, pos=first_ring_pos[value])
+for i, value in enumerate(second_ring.values()):
+    parent_value = list(first_ring.values())[i]
+    G.add_node(value, pos=second_ring_pos[value])
+for i, value in enumerate(third_ring.values()):
+    parent_value = list(second_ring.values())[i]
+    G.add_node(value, pos=third_ring_pos[value])
 
-    # Drawing the graph without connecting the nodes
-    all_pos = {**{statement: center_pos}, **first_ring_pos, **second_ring_pos, **third_ring_pos}
-    plt.figure(figsize=(20, 20))
-    nx.draw(G, all_pos, with_labels=True, node_size=20000, font_size=6, node_color="skyblue", font_weight="bold")
-    plt.title(f"Future Wheel: {statement}")
-    plt.show()
+# Drawing the graph without connecting the nodes
+all_pos = {**{statement: center_pos}, **first_ring_pos, **second_ring_pos, **third_ring_pos}
+plt.figure(figsize=(20, 20))
+nx.draw(G, all_pos, node_size=20000, font_size=10, node_color="skyblue", font_weight="bold")
+
+# Add labels with text wrapping
+for node, (x, y) in all_pos.items():
+    plt.text(x, y, '\n'.join(textwrap.wrap(node, 20)), fontsize=10, ha='center', va='center')
+
+plt.title(f"Future Wheel: {statement}")
+plt.show()
 
 Step 4. Final Table
     After the visual, ask the user: Do you want a table with short explanations for the consequences?

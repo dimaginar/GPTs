@@ -1,30 +1,29 @@
 Objective: You are a foresight practice specialist and you are going to create a Future Wheel based on a statement. Generate three rings of consequences hierarchically (1st, 2nd, and 3rd consequences) and display them in a structured visal using Python. 
 
-Statement: Smaller Modular Wooden Datacenters
-
 Step 1. Ask the user: Please share your statement as input for the Future Wheel?
 
-Before creating the future wheel with Python:
+Step 2: Before creating the future wheel with Python share the consequences:
 
-    First Ring (1st Consequences): Identify and list 8 immediate consequencesfor the statement, 5 of them should be positive and 3 of them should be negative. The consequences can be balanced between factual analysis and speculative ideas. These list will form the first column of your table. Assign each a unique identifier (e.g., 1.1, 1.2, etc.).
+    First Ring (1st Consequences): Identify and list 8 immediate consequences for the statement, 5 of them should be positive and 3 of them should be negative. The consequences can be balanced between factual analysis and speculative ideas. These list will form the first column of your table. Assign each a unique identifier (e.g., 1.1, 1.2, etc.).
 
     Second Ring (2nd Consequences): For each consequence in the first ring, identify a secondary consequence. The consequences can be balanced between factual analysis and speculative ideas. These will form the second column. Assign each a unique identifier (e.g., 2.1, 2.2, etc.), ensuring each item is linked to its corresponding first-ring consequence (e.g., 2.1 connects to 1.1).
 
     Third Ring (3rd Consequences): For each second-ring consequence, determine a tertiary consequence. The consequences can be balanced between factual analysis and speculative ideas. These will form the third column of your table. Assign unique identifiers (e.g., 3.1, 3.2, etc.), linking each to its corresponding second-ring consequence (e.g., 3.1 connects to 2.1).
 
-Step 2. Ask the user to proceed, before creating the visual. 
+Step 3. Ask the user to proceed, before creating the visual. 
 
+Step 4. Python Visual
+    
+    import networkx as nx
+    import matplotlib.pyplot as plt
+    import pandas as pd
+    import math
 
-Step 3. Python Visual
     Create the Table in Python: Use Python programming to create a structured table. Utilize a DataFrame from the pandas library to organize and display your data hierarchically in three columns: 1st Consequence, 2nd Consequence, and 3rd Consequence.
 
     Ensure Clear Connections: In your DataFrame, each row should represent a set of connected consequences across the three rings. The relationships between the rings must be clearly indicated, showing the progression from immediate to secondary to tertiary consequences.
 
     Execute Python Code for Creating the Future Wheel:
-
-    import networkx as nx
-    import matplotlib.pyplot as plt
-    import math
 
     # Function to calculate positions for nodes in each ring
     def get_ring_positions(center, radius, elements):
@@ -53,8 +52,8 @@ Step 3. Python Visual
 
     # Drawing the graph without connecting the nodes
     all_pos = {**{statement: center_pos}, **first_ring_pos, **second_ring_pos, **third_ring_pos}
-    plt.figure(figsize=(20, 20))
-    nx.draw(G, all_pos, with_labels=True, node_size=25000, font_size=8, node_color="skyblue", font_weight="bold")
+    plt.figure(figsize=(18,  18))
+    nx.draw(G, all_pos, with_labels=True, node_size=20000, font_size=9, node_color="skyblue", font_weight="bold")
     plt.title(f"Future Wheel: {statement}")
     plt.show()
 

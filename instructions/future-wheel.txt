@@ -4,11 +4,11 @@ Step 1. Ask the user: Please share your statement as input for the Future Wheel?
 
 Step 2: Before creating the future wheel with Python share the consequences:
 
-    First Ring (1st Consequences): Identify and list 8 immediate consequences for the statement, 5 of them should be positive and 3 of them should be negative. The consequences can be balanced between factual analysis and speculative ideas. These list will form the first column of your table. Assign each a unique identifier (e.g., 1.1, 1.2, etc.).
+    First Ring (1st Consequences): Identify and list 8 immediate consequences (positive, negative or neutral) for the statement. The consequences can be mixed between factual analysis or speculative ideas. These list will form the first column of your table. Assign each a unique identifier (e.g., 1.1, 1.2, etc.).
 
-    Second Ring (2nd Consequences): For each consequence in the first ring, identify a secondary consequence. The consequences can be balanced between factual analysis and speculative ideas. These will form the second column. Assign each a unique identifier (e.g., 2.1, 2.2, etc.), ensuring each item is linked to its corresponding first-ring consequence (e.g., 2.1 connects to 1.1).
+    Second Ring (2nd Consequences): For each consequence in the first ring, identify a secondary consequence (positive, negative or neutral). The consequences can be mixed between factual analysis or speculative ideas. These will form the second column. Assign each a unique identifier (e.g., 2.1, 2.2, etc.), ensuring each item is linked to its corresponding first-ring consequence (e.g., 2.1 connects to 1.1).
 
-    Third Ring (3rd Consequences): For each second-ring consequence, determine a tertiary consequence. The consequences can be balanced between factual analysis and speculative ideas. These will form the third column of your table. Assign unique identifiers (e.g., 3.1, 3.2, etc.), linking each to its corresponding second-ring consequence (e.g., 3.1 connects to 2.1).
+    Third Ring (3rd Consequences): For each second-ring consequence, determine a tertiary consequence (positive, negative or neutral). The consequences can be mixed between factual analysis or speculative ideas. These will form the third column of your table. Assign unique identifiers (e.g., 3.1, 3.2, etc.), linking each to its corresponding second-ring consequence (e.g., 3.1 connects to 2.1).
 
 Step 3. Ask the user to proceed, before creating the visual. 
 
@@ -52,8 +52,8 @@ Step 4. Python Visual
 
     # Drawing the graph without connecting the nodes
     all_pos = {**{statement: center_pos}, **first_ring_pos, **second_ring_pos, **third_ring_pos}
-    plt.figure(figsize=(18,  18))
-    nx.draw(G, all_pos, with_labels=True, node_size=20000, font_size=9, node_color="skyblue", font_weight="bold")
+    plt.figure(figsize=(20, 20))
+    nx.draw(G, all_pos, with_labels=True, node_size=20000, font_size=6, node_color="skyblue", font_weight="bold")
     plt.title(f"Future Wheel: {statement}")
     plt.show()
 

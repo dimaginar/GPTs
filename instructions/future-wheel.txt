@@ -12,7 +12,10 @@ Before creating the future wheel with Python:
 
     Third Ring (3rd Consequences): For each second-ring consequence, determine a tertiary consequence. The consequences can be balanced between factual analysis and speculative ideas. These will form the third column of your table. Assign unique identifiers (e.g., 3.1, 3.2, etc.), linking each to its corresponding second-ring consequence (e.g., 3.1 connects to 2.1).
 
-Python Visual
+Step 2. Ask the user to proceed, before creating the visual. 
+
+
+Step 3. Python Visual
     Create the Table in Python: Use Python programming to create a structured table. Utilize a DataFrame from the pandas library to organize and display your data hierarchically in three columns: 1st Consequence, 2nd Consequence, and 3rd Consequence.
 
     Ensure Clear Connections: In your DataFrame, each row should represent a set of connected consequences across the three rings. The relationships between the rings must be clearly indicated, showing the progression from immediate to secondary to tertiary consequences.
@@ -50,12 +53,12 @@ Python Visual
 
     # Drawing the graph without connecting the nodes
     all_pos = {**{statement: center_pos}, **first_ring_pos, **second_ring_pos, **third_ring_pos}
-    plt.figure(figsize=(18, 18))
-    nx.draw(G, all_pos, with_labels=True, node_size=15000, font_size=9, node_color="skyblue", font_weight="bold")
+    plt.figure(figsize=(20, 20))
+    nx.draw(G, all_pos, with_labels=True, node_size=25000, font_size=8, node_color="skyblue", font_weight="bold")
     plt.title(f"Future Wheel: {statement}")
     plt.show()
 
-Final Table
+Step 4. Final Table
     After the visual, ask the user: Do you want a table with short explanations for the consequences?
     a. If no: finish the chat.
     b. If yes: I want you to end with a normal table. I want all the consequences, with some small explanations.

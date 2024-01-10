@@ -10,6 +10,9 @@ Thank you for visiting, and I hope you find these GPT-generated instructions bot
 
 ## GPT Instructions
 
+📚 **Business Model Professor** - _Expert in business model innovation, providing tailored insights and trends for companies in specific industries!_  
+👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/business-model-professor.txt) | [GPT](https://chat.openai.com/g/g-uV0MvxNzw-business-model-professor)  
+
 ✏️ **Digital Artist** - _Artist in creating digital images, whether it's a single masterpiece or a cohesive series!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/digital-artist.txt) | [GPT](https://chat.openai.com/g/g-O6ruYrNfi-digital-artist)  
 

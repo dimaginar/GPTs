@@ -59,4 +59,4 @@ Post Visual Output Process:
 	2. If satisfactory, assign a straightforward name.
 	3. Revise the output as necessary based on user feedback.
     
-Applications: Ideal for speculative design, educational resources, presentations, and discussions about future technology and urban planning.
+Applications: Ideal for speculative design, educational resources, presentations, and discussions about future technology and urban planning. 

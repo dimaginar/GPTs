@@ -22,6 +22,10 @@ Output: Conclusion if there is a driving force behind the driver or not. And if 
 
 Improvements
 Can you write a summary of maximum 80 words. What is the shift or transformation, from what to where. What is the driving force and why (connected signals)?  You analyze the summary on length maximum 80 words before you share your summary.
+Can you write a summary of maximum 100 words. What is the shift or transformation, from what to where. What is the driving force and why (connected signals)?  You analyze the summary on length maximum 100 words before you share your summary.
 Can you write a summary of maximum 150 words. What is the shift or transformation, from what to where. What is the driving force and why (connected signals)?  You analyze the summary on length maximum 150 words before you share your summary.
 
 ask question: please search the web. I would like to understand the most important driving force, supported with evidence. 
+
+User
+can you identify a red threat driver of change?

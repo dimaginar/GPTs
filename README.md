@@ -22,5 +22,8 @@ Thank you for visiting, and I hope you find these GPT-generated instructions bot
 🧙‍♂️ **Future Wheel Magician** - _Foresight specialist creating speculative future wheels!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/future-wheel.txt) | [GPT](https://chat.openai.com/g/g-HoCjX9Ywd-future-wheel-magician)  
 
+📝 **JTBD Analyst** - _Expert in crafting customer problem statements and exploring possible solutions!_  
+👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/jtbd-analyst.txt) | [GPT](https://chat.openai.com/g/g-ZCiuXe9eC-jtbd-analyst)  
+
 🖌️ **Logo Designer** - _Artist in creating visually compelling icon or symbol logo's, lettermarks, or a combination of both!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/logo-designer.txt) | [GPT](https://chat.openai.com/g/g-I9V0kTqHP-logo-designer)  

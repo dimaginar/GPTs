@@ -13,6 +13,9 @@ Thank you for visiting, and I hope you find these GPT-generated instructions bot
 👨‍🏫 **Business Model Professor** - _Expert in providing business model tailored insights and trends!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/business-model-professor.txt) | [GPT](https://chat.openai.com/g/g-uV0MvxNzw-business-model-professor)  
 
+📝 **Copy Writer Mentor** - _Expert and mentor in writing engaging copies!_  
+👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/copy-writer-mentor.txt) | [GPT](https://chat.openai.com/g/g-ID1BcHyoO-copywriter-mentor)  
+
 ✏️ **Digital Artist** - _Artist in creating digital images, whether it's a single masterpiece or a cohesive series!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/digital-artist.txt) | [GPT](https://chat.openai.com/g/g-O6ruYrNfi-digital-artist)  
 

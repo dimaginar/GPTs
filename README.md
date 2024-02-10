@@ -1,6 +1,6 @@
 ## Dimaginar's AI Assistant Repository
 
-Welcome to my AI Assistant Instructions Repository! This repo offers a valuable collection of generative AI assistant instructions across various domains and topics, showcasing the incredible versatility of these AI language models.  
+Welcome to my AI Assistant Instructions Repository! This repo offers a valuable collection of generative AI instructions across various domains and topics, showcasing the incredible versatility of these AI language models.  
 
 Each set of instructions is presented with a short description, a link to the complete instruction, and access to free-to-use AI assistants. You can find these assistants on the open-source Hugging Face platform, where AI Chat assistants are available at no cost and without the need for registration, or on OpenAI's ChatGPT platform, accessible with a paid subscription.  
 

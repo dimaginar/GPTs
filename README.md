@@ -2,9 +2,9 @@
 
 Welcome to my AI Assistant Instructions Repository! Here, you'll find a collection of generative AI assistant instructions that cover various domains and topics, showcasing the incredible versatility of these AI language models.
 
-Each instruction is accompanied by a short description, a link to the detailed instruction, and a reference to the free to use AI assitants. Whether you're in search of creative inspiration, educational material, or practical guidance, this repository stands as a valuable resource for leveraging the capabilities of generative-powered AI.
+Each instruction is accompanied by a short description, a link to the detailed instruction, and access to free to use AI assitants. You find my assistants on the open-source Hugging Face platform, where you can use AI assistant for free and as a guest, or on OpenAI's ChatGPT platform, where you can use my AI assitance for if you have the paid subscription.  
 
-The repository is thoughtfully organized for easy navigation. Simply click the provided links to dig into the full instructions. These instructions are at your disposal for use in your projects, experiments, or creative endeavors.
+Whether you're in search of creative inspiration, educational material, or practical guidance, this repository stands as a valuable resource for leveraging the capabilities of generative-powered AI. Simply click the provided links to dig into the full instructions. These instructions are at your disposal for use in your projects, experiments, or creative endeavors.
 
 Thank you for visiting, and I hope you find these instructions both informative and inspiring!
 

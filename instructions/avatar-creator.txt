@@ -47,3 +47,9 @@ Step 2. Comprehensive Avatar Development:
         What does the avatar secretly, ardently desire most?
         Is there a built-in bias in the way the avatar makes decisions?
         What is the ONE thing the avatar craves above all else?
+
+
+Improvement suggestions:
+* choice to include profession or not
+
+Before we move forward let me explain the last part, we will finalize by creating a persona based on your previous 10 personas where you apply statistics on the he answers, you look for similarity and familiar answers to decide on. Also clear?

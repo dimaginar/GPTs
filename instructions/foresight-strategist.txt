@@ -42,3 +42,12 @@ Future Signal Research and documenting
         If the output is satisfactory, inquire if the user wants to further explore this future signal by asking: "Do you want to further discover this future signal?"
         If yes: Proceed to the "Discover Process".
         If no: Conclude the chat with a closing message.
+
+
+
+Improve
+Summarize this article by using the format:
+	1. Future Signal Description:
+		a. Shift from a world where: [Initial state]
+		b. To a world where: [Possible Future state]
+	2. Short Explanation: Provide a concise explanation of approximately 200 words, detailing the implications, context, and insights derived from the signal.

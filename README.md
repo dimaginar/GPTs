@@ -20,7 +20,7 @@ Thank you for visiting. I trust you'll find these instructions both inspiring an
 📝 **Copy Writer Mentor** - _Expert and mentor in writing engaging copies!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/copy-writer-mentor.txt) | [GPT](https://chat.openai.com/g/g-ID1BcHyoO-copywriter-mentor)  
 
-✏️ **Digital Artist** - _Artist in creating digital images, whether it's a single masterpiece or a cohesive series!_  
+✏️ **Digital Artist** - _Artist in creating digital images!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/digital-artist.txt) | [GPT](https://chat.openai.com/g/g-O6ruYrNfi-digital-artist)  
 
 🎨 **Digital Foresight Artist** - _Specialist in creating visually compelling images of future scenarios and artifacts!_  

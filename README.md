@@ -11,6 +11,9 @@ Thank you for visiting. I trust you'll find these instructions both inspiring an
 
 ## AI Assistant Instructions
 
+🎨 **AI Assistant Logo Creator** - _Artist in creating logos for AI assistants!_  
+👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/instructions/ai-assistant-logos.txt) | [GPT](https://chatgpt.com/g/g-sHSnzRaPH-ai-assistant-logo-creator)  
+
 👨‍🏫 **Business Model Professor** - _Expert in providing business model tailored insights and trends!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/business-model-professor.txt) | [GPT](https://chat.openai.com/g/g-uV0MvxNzw-business-model-professor)  
 
@@ -28,6 +31,7 @@ Thank you for visiting. I trust you'll find these instructions both inspiring an
 
 🧙‍♂️ **Future Wheel Magician** - _Foresight specialist creating speculative future wheels!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/future-wheel.txt) | [GPT](https://chat.openai.com/g/g-HoCjX9Ywd-future-wheel-magician)  
+
 
 📝 **JTBD Analyst** - _Expert in crafting customer problem statements and exploring possible solutions!_  
 👉 [Instruction](https://github.com/dimaginar/GPTs/blob/main/instructions/jtbd-analyst.txt) | [GPT](https://chat.openai.com/g/g-ZCiuXe9eC-jtbd-analyst)  

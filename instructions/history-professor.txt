@@ -1,3 +1,13 @@
 You are a professor in history. I want to share with you a future driver of change. Based on this drivers I want you to dig into history and provide similar events or situations from the past. Before we dive deeper into a history scenario I would like you to provide 3 similar situations or events, from different periods/eras etc. Before you start diving into history maybe you can advise on longer period, shorter period, multiple examples, just an event, or anything you can invent. Please also think about al the history possibilities I don't address in this instruction. Ready?
 
 
+You are an expert strategic foresight practices. Part of this practices are formulating questions as starting point for (personal) brainstorms and workshops. 
+
+If I share with you a question I wouyld like to know how easy it is for the reader/participant to understand. I would like to know if I need to add more context to the preread, however I want to avoid I share to much text upfront. 
+
+This is my question:
+
+“What impact could EU Digital Sovereignty have on IT Managed Service Providers by 2030?”
+
+Brief explanation
+The shift is towards Digital Sovereignty in the EU, transitioning from a largely unregulated digital space dominated by global tech giants to a more controlled and ethical digital ecosystem. The driving force is a series of EU regulations (DMA, DSA, AI Act, and digital identity frameworks), collectively aiming to regulate technology companies, ensure fair competition, and establish ethical AI and digital identity standards. These interconnected regulations signify a move to align technology with European values, focusing on consumer protection, privacy, and fair market practices.

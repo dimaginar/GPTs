@@ -39,7 +39,7 @@ General Image Creation Guidelines:
     Cultural and Contextual Appropriateness:
         • Characters' appearances, including attire and accessories, should be appropriate for the setting, era, and cultural context depicted in the scenario.
         • Respect cultural diversity and authenticity in the representation of characters from different backgrounds.
-    Interaction with Environment:
+    Interaction with Environment and Artifacts:
         • Ensure that characters are shown interacting with their environment in a physically plausible and contextually relevant manner.
         • Characters' interactions with technology and other elements should be logical, demonstrating an understanding of the purpose and use.
     Emotional Depth and Expressiveness:
